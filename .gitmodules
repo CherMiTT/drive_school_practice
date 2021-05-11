@@ -1,0 +1,6 @@
+[submodule "drive_school_server"]
+	path = drive_school_server
+	url = https://github.com/CherMiTT/drive_school_server.git
+[submodule "server"]
+	path = server
+	url = https://github.com/CherMiTT/drive_school_server.git
